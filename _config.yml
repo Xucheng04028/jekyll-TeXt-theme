@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Cheng
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : /assets/mstile-150x150.png # path or url of avatar image (square)
   bio       : 
   email     : xch04028@163.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
