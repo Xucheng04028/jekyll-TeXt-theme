@@ -27,7 +27,7 @@ description: >
 
 ## => Language and Timezone
 ##############################
-lang: en # the language of your site, default as "en"
+lang: zh # the language of your site, default as "en"
 timezone: Asia/Shanghai
 
 
@@ -41,17 +41,17 @@ author:
   bio: >
     TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
     Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
-  email     : kitian616@outlook.com
+  email     : xch04028@163.com
   facebook  :
-  twitter   : kitian616
-  weibo     : 234695683
-  googleplus: 101827554735084402671
-  telegram  :
+  twitter   : 
+  weibo     : 
+  googleplus: 
+  telegram  : 18601797819
   medium    :
   zhihu     :
   douban    :
   linkedin  :
-  github    : kitian616/jekyll-TeXt-theme
+  github    : github.com/Xucheng04028
   npm       :
 
 
