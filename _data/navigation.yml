@@ -35,7 +35,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       subconverter
+      en      : &EN       SubConverter
       zh-Hans : &ZH_HANS  订阅转换
       # @end locale config
     url: https://www.zodzone.top/sub/
